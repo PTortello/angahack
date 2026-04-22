@@ -1,0 +1,20 @@
+{
+  "short_name": "vite-react-typescript",
+  "name": "vite-react-typescript template",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "logo196.png",
+      "type": "image/png",
+      "sizes": "196x196"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fefefe",
+  "background_color": "#242424"
+}

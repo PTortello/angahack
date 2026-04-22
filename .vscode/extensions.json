@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "PKief.material-icon-theme",
+    "ritwickdey.LiveServer",
+    "styled-components.vscode-styled-components",
+  ]
+}
