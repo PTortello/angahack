@@ -1,0 +1,11 @@
+{
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "eslint.codeActionsOnSave.rules": null,
+    "eslint.format.enable": true,
+    "explorer.compactFolders": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.root": "/dist",
+}
