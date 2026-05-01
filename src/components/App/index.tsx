@@ -1,10 +1,7 @@
 import { useMemo, useRef, useState } from "react";
 import { Box, Paper, TextField, Typography } from "@mui/material";
+import { BUFFER, ITEM_HEIGHT, VIEW_HEIGHT } from "constants/itemsList";
 import { products } from "data/products";
-
-const ITEM_HEIGHT = 36;
-const VIEW_HEIGHT = 600;
-const BUFFER = 5;
 
 function App() {
   const [query, setQuery] = useState("");
